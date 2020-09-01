@@ -1,0 +1,5 @@
+[General]
+filename=EMEA.csv
+group_name=GG-OKTA-2FA-EMEA
+url=https://dev-121295.oktapreview.com/
+token=00BFl6n8wv28ybAbUX_8b_gLrybW29BzNPc6_pHjie
